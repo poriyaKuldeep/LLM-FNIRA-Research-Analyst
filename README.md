@@ -7,6 +7,9 @@ LLM-FNIRA (Language Learning Model - Finance News Insights and Research Assistan
 
 In today's fast-paced world, staying updated with the latest developments in finance, stock markets, and news is crucial for making informed decisions. However, the sheer volume of information available can be overwhelming, making it challenging to sift through and extract relevant insights efficiently. LLM-FNIRA addresses this challenge by leveraging cutting-edge AI technologies to analyze URLs and distill key information, saving users time and effort while enhancing their research capabilities.
 
+## Sample Output:
+![output new new final](https://github.com/fenil210/Research-Analyst/assets/121050723/6a7c69b8-bff9-434f-9f64-079896aab04e)
+
 ## How LLM-FNIRA Can Help Research and Analysis
 
 ### 1. Efficient Information Extraction
@@ -44,9 +47,6 @@ To start using LLM-FNIRA, simply follow these steps:
 3. Run the application and input the URLs you wish to analyze.
 4. Ask questions or explore the insights provided by LLM-FNIRA.
 5. Experiment with different URLs and queries to further explore its capabilities.
-
-## Sample Output:
-![output new new final](https://github.com/fenil210/Research-Analyst/assets/121050723/6a7c69b8-bff9-434f-9f64-079896aab04e)
 
 
 
